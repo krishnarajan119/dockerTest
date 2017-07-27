@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo "before build" > /usr/share/nginx/html/index.html
+RUN echo "hello Krishna" > /usr/share/nginx/html/index.html
